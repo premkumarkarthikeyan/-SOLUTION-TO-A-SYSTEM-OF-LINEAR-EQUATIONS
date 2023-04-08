@@ -41,7 +41,7 @@ print(result)
 ```
 ## Output:
 
-![Screenshot 2023-03-29 100347](https://user-images.githubusercontent.com/119476243/228767110-f72fcfd7-04ec-4952-92fc-70e0cd39b4aa.png)
+![1a maths prem](https://user-images.githubusercontent.com/119476243/230726599-a7f31e03-ba1e-442c-a59d-dfa0752514bb.png)
 
 ## Result: 
 
